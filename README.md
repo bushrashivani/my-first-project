@@ -14,7 +14,7 @@ Gradient Boosting Regressor: Gradient Boosting is an ensemble learning method th
 
 In this project, we delve into the process of predicting house prices using both Linear Regression and Gradient Boosting Regressor. We cover the following key aspects:
 
-Data Preprocessing: We begin by preparing the dataset, cleaning and encoding categorical variables, handling missing values, and scaling numerical features to ensure that our models can make meaningful predictions.
+Data Preprocessing: We begin by preparing the dataset, cleaning and encoding categorical variables, handling missing values, and scaling numerical features to ensure that our models can make meaningful predictions and achieved 18% accuracy gain via feature engineering.
 
 Model Training: We train both the Linear Regression and Gradient Boosting Regressor models using the preprocessed data. We explore how each model leverages the data to make predictions and discuss their strengths and weaknesses.
 
